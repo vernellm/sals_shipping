@@ -1,7 +1,7 @@
 # Author: Vernell Mangum
 #
 # Description: Basic python program that calculates your cost of shipping
-# based on shipping prices and weight of parcel
+# based on shipping prices and weight of parcel.
 
 weight = 41.5
 
